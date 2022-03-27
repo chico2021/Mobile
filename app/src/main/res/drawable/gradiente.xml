@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape>
+        <gradient android:startColor="@color/cardview_light_background"
+            android:centerColor="@color/material_dynamic_neutral_variant0"
+            android:endColor="@color/design_default_color_background"
+            android:angle="50"
+            ></gradient>
+    </shape>
+</item>
+
+</selector>
